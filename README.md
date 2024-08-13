@@ -55,3 +55,4 @@ You can follow along with me as we build this on YouTube. The commits will line 
 
 [![YouTube video](https://img.youtube.com/vi/A6-56miVA_0/0.jpg)](<[https://www.youtube.com/watch?v=A6-56miVA_0](https://youtu.be/A6-56miVA_0)>)
 # learn-supabase
+# learn-supabase
