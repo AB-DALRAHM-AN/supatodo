@@ -18,14 +18,14 @@ export type Database = {
           user_id: string
         }
         Insert: {
-          id?: number
+          id?: never
           inserted_at?: string
           is_complete?: boolean | null
           task?: string | null
           user_id: string
         }
         Update: {
-          id?: number
+          id?: never
           inserted_at?: string
           is_complete?: boolean | null
           task?: string | null
